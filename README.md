@@ -1,2 +1,2 @@
 Ghost Town Messengers
-<img src="file://gtm2.jpg"/>
+![title](gtm2.jpg)
