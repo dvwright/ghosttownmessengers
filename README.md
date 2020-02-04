@@ -1,2 +1,2 @@
-gtm.jpeg
-![image info](./gtm.jpeg)
+Ghost Town Messengers
+<img src="file://gtm2.jpg"/>
